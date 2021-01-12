@@ -1,0 +1,1 @@
+exports.anlik_tarih = () => Date();
